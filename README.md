@@ -1,6 +1,6 @@
 # Polygamer.io
 
-https://polygamer-farm.web.app/ More details coming soon.
+https://farm.polygamer.io/ More details coming soon.
 
 ## Deployed Contracts
 
